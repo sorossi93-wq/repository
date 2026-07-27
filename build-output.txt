@@ -1,0 +1,8 @@
+ResourceUnavailable: C:\Users\Sofia Rossi\Projects\sofia-campbell-registry\.tools\node-v22.18.0-win-x64\npm.ps1:13
+Line |
+  13 |  $NPM_PREFIX=(& $NODE_EXE $NPM_PREFIX_JS)
+     |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Program 'node.exe' failed to run: No process is associated with this object.At C:\Users\Sofia
+     | Rossi\Projects\sofia-campbell-registry\.tools\node-v22.18.0-win-x64\npm.ps1:13 char:14 + $NPM_PREFIX=(&
+     | $NODE_EXE $NPM_PREFIX_JS) +              ~~~~~~~~~~~~~~~~~~~~~~~~~~.
+
